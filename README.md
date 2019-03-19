@@ -1,2 +1,2 @@
 # javax-annotations
-javax.annotation
+The javax.annotation's as I know them :>
